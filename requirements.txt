@@ -1,0 +1,5 @@
+flask
+transformers
+torch
+google-cloud-speech
+pyttsx3
