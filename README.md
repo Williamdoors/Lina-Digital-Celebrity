@@ -1,19 +1,22 @@
-# Personalized-Tutor-AI
-An open-source project to build a one-on-one interactive Personalized Tutor AI capable of generating personalized content and tracking user progress.
+# Lina Digital Celebrity
+Building Asia's first AI-powered digital lifeform and social media celebrity.
 
-## Features
-- Real-time personalized interaction via text and voice.
-- Dynamic teaching content generation using GPT models.
-- Learning progress tracking and adaptive content delivery.
+## Project Goals
+- Create a highly interactive virtual AI personality named Lina.
+- Launch Lina as a social media influencer on Instagram.
+- Develop Lina into a "digital lifeform" capable of emotional responses and content creation.
 
-## Get Started
-1. Clone the repository.
-2. Install dependencies: `pip install -r requirements.txt`.
-3. Run the application: `python src/main.py`.
+## Modules
+- Avatar Creation: High-quality 3D model and animations for Lina.
+- NLP Personality: AI-powered conversational logic for authentic interactions.
+- Content Generation: Automated Instagram posts and stories.
+- Social Media Integration: Seamless interaction with Instagram's API.
 
 ## How to Contribute
-- Check open issues for tasks to work on.
-- Fork the repository and submit a pull request.
+1. Fork this repository.
+2. Clone the fork to your local machine.
+3. Make changes and commit them with clear messages.
+4. Submit a pull request to discuss and merge your contributions.
 
 ## License
 This project is licensed under the MIT License.
