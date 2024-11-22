@@ -109,42 +109,7 @@ Terminal Technology Department, Alipay, Ant Group.
 </tr>
 </table>
 
-### Chinese Driven Audio
-<table class="center">
-<tr>
-    <td width=30% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/a940a332-2fd1-48e7-b3c4-f88f63fd1c9d" muted="false"></video>
-    </td>
-    <td width=30% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/8f185829-c67f-45f4-846c-fcbe012c3acf" muted="false"></video>
-    </td>
-    <td width=30% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/a49ab9be-f17b-41c5-96dd-20dc8d759b45" muted="false"></video>
-    </td>
-</tr>
-<tr>
-    <td width=30% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/1136ec68-a13c-4ee7-ab31-5621530bf9df" muted="false"></video>
-    </td>
-    <td width=30% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/fc16d512-8806-4662-ae07-8fcf45c75a83" muted="false"></video>
-    </td>
-    <td width=30% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/f8559cd1-f555-4781-9251-dfcef10b5b01" muted="false"></video>
-    </td>
-</tr>
-<tr>
-    <td width=30% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/c7473e3a-ab51-4ad5-be96-6c4691fc0c6e" muted="false"></video>
-    </td>
-    <td width=30% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/ca69eac0-5126-41ee-8cac-c9722004d771" muted="false"></video>
-    </td>
-    <td width=30% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/e66f1712-b66d-46b5-8bbd-811fbcfea4fd" muted="false"></video>
-    </td>
-</tr>
-</table>
+
 
 ## ⚒️ Installation
 ### Download the Codes
